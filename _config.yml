@@ -1,14 +1,14 @@
 title:              Tuan Nguyen's Blog
 email:              tuannguyen1999xxx@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        Những lúc rảnh muốn viêt gì đó ^.^
 author:             Start Bootstrap
 baseurl:            "/tuannguyen-blog"
 url:                "https://tuannguyen1999xxx.github.io/tuannguyen-blog/"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:
+github_username:    tuannguyen1999xxx
+facebook_username:  tuan.nguyensy.7543
 instagram_username:  
 linkedin_username:
 
